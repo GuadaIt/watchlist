@@ -1,0 +1,4 @@
+# watchlist
+I watch a lot of movies and tv series. I love to. But unfortunately I can't spend ALL of my time watching them, cause life. So I need to keep track of the ones that interest me. There are a lot of apps out there to do precisely that, but I decided to build something of my own for the sake of learning.
+So, the frontend is built with VueJS. I started learning Vue not that long ago and I figured this would be a great project to practice. In the backend, I built an ExpressJS server mainly to handle API calls (to get and search for movies and tv series). I also decided on using Firebase for login authentication and Firebase Firestore for a database. Nothing fancy here. I hadn't used it before but I heard good things about it so I went with it. Works just fine.
+It's a work in progress. But the main skeleton is already there. Looking forward to keep working on it!
